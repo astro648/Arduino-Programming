@@ -1,0 +1,1 @@
+This effect makes the LEDs blink from left to right, then back to left - one light after another, turning off when the next turns on.
