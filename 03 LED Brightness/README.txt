@@ -1,0 +1,1 @@
+This uses the same circuit as 02. Change the number in the script to change the brightness, 0-255.
