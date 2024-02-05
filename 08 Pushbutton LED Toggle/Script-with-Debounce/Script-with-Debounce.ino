@@ -1,6 +1,9 @@
 #define LED_PIN 8
 #define BUTTON_PIN 7
 
+byte lastButtonState;
+byte ledState = LOW;
+
 unsigned long lastTimeButtonStateChanged = millis();
 unsigned long debounceDuration = 50; // millis
 
