@@ -1,0 +1,1 @@
+The Ultrasonic Sensor and the LEDs are not used in this. There are comments in the code documenting how it works. Use the Serial Monitor to send lines that you want to put on the screen of the LCD.
