@@ -1,0 +1,1 @@
+Ultrasonic sensor is not used.
