@@ -1,1 +1,1 @@
-Ultrasonic sensor is not used.
+Ultrasonic sensor is not used. Script has documentation on how the code works.
